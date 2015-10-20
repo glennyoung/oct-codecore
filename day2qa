@@ -1,0 +1,21 @@
+atom ~/.bash_profile
+
+{{{ASK ABOUT .BASH }}}
+
+cd ~/.ssh  ( create a ssh key )
+cat  ( display content )
+git
+git init
+ls -a
+rm r-
+ls -a
+----------------------------------------------
+
+hashing algorithem
+
+content  ----> hashing algorithem ----> fixed length string
+
+< note: unable to get back to original content >
+
+----------------------------------------------
+ 	
